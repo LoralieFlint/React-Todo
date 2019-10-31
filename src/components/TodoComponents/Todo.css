@@ -1,0 +1,23 @@
+.App {
+    background-color: teal;
+    max-width: 500px;
+    margin: auto;
+    height: 500px;
+}
+.header {
+    text-align: center;
+}
+.checkList {
+    color: black;
+    text-align: center;
+}
+button {
+    background-color: white;
+    color: teal;
+}
+.item {
+    color: white;
+}
+.input {
+    margin-right: 5px;
+}
